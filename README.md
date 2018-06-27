@@ -13,3 +13,5 @@ To try the project:
 3. Run `npm start`
 
 By default, a private API key is inserted, which should work just fine. In case of failure, try to replace it with your own Clarifia API key
+
+[Example](https://i.imgur.com/HgvrQIS.png)
