@@ -12,6 +12,6 @@ To try the project:
 2. Run `npm i`
 3. Run `npm start`
 
-By default, a private API key is inserted, which should work just fine. In case of failure, try to replace it with your own Clarifia API key
+By default, a private API key is inserted, which should work just fine. In case of failure, try to replace it with your own Clarifai API key
 
 [Example](https://i.imgur.com/HgvrQIS.png)
