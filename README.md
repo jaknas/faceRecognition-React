@@ -1,6 +1,6 @@
 # faceRecognition App
 
-## You can access the site [HERE](https://nervous-bartik-6c47db.netlify.com/)
+## You can access the site [HERE](https://facerecognition-kleyu.netlify.com/)
 
 This app uses [Clarifai face detection model](https://clarifai.com/) to recognize and mark face of image you provide in the link-form.
 
