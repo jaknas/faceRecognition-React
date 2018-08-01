@@ -33,7 +33,14 @@ class Signin extends React.Component {
 	render() {
 		const { onRouteChange } = this.props;
 		return (
-			<article className="br3 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 shadow-5 center">
+			<article
+				className="br3 ba b--black-10 mv4 w-100 w-50-m w-25-l mw6 center shadow-1"
+				style={{
+					boxShadow:
+						"0 0 0 1px rgba(0, 0, 0, .15), 0 8px 10px 1px rgba(0, 0, 0, .07), 0 3px 14px 2px rgba(0, 0, 0, .06), 0 5px 5px -3px rgba(0, 0, 0, .2)",
+					transition: "all 200ms cubic-bezier(0.4, 0, 0.2, 1)"
+				}}
+			>
 				<main className="pa4 black-80">
 					<form className="measure">
 						<fieldset id="sign_up" className="ba b--transparent ph0 mh0">

@@ -1,8 +1,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: "Montserrat", Courier, monospace;
-	background: linear-gradient(to right, #396afc, #2948ff);
+	font-family: "Varela Round", Courier, monospace;
+	background: #fafafa;
 }
 
 button {
