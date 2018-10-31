@@ -4,7 +4,7 @@
 
 This app uses [Clarifai face detection model](https://clarifai.com/) to recognize and mark face of image you provide in the link-form.
 
-Sign In form and Register are just placeholders, they have some basic back-end properties but are not working remotely.
+Sign In form and Register are just placeholders, they have some basic back-end properties but are not working remotely. Also, on submit button buttons (signin.js, register.js) there should be event.preventDefault()
 
 This project uses [tachyons](https://tachyons.io/) for simple and fast styling.
 
